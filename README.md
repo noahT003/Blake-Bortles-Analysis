@@ -1,4 +1,4 @@
-# Blake-Bortles-Analysis
+# Blake Bortles Analysis
 
 ## Overview
 Analysis of NFL data to investigate the performance of Jaguars' quarterback Blake Bortles across multiple seasons.
